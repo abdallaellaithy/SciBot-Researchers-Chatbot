@@ -249,8 +249,6 @@ SciBot is designed with flexibility for deployment:
 *   [ ] Support for more LLMs: Allow selection from different LLM providers or open-source models.
 *   [ ] Dockerization for easier deployment.
 
-See the [open issues](https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_REPO_NAME]/issues) for a full list of proposed features (and known issues).
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -265,14 +263,6 @@ Don't forget to give the project a star! Thanks again!
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
-
-<!-- CONTACT -->
-## Contact
-
-GannaTullah Gouda - https://www.linkedin.com/in/gannatullah-gouda/
-                    gannaasaad@gmail.com
-
-Project Link: https://github.com/GannaAsaad/Personalized-Chatbot-Project 
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
