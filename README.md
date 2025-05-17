@@ -1,27 +1,26 @@
 # SciBot - AI Chatbot for Research Paper Understanding 🤖
 
+<p align="center">
+  <img src="https://github.com/abdallaellaithy/SciBot-Researchers-Chatbot/blob/main/assets/image.jpg" alt="Usage Instructions">
+</p>
 
+## How to Use the Program
 
-![SciBot Banner](./image.jpg)
+Follow the steps in the GIF below to learn how to use the program:
+<p align="center">
+  <img src="https://github.com/abdallaellaithy/SciBot-Researchers-Chatbot/blob/main/assets/DEPI.gif" alt="Usage Instructions">
+</p>
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="[YOUR_PROJECT_LINK_HERE_IF_ANY]">
-    <!-- <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
-    <!-- If you have a logo, uncomment the line above and add its path -->
-  </a>
-
   <h3 align="center">SciBot</h3>
 
   <p align="center">
   An AI-powered chatbot to simplify research paper comprehension and enable interactive exploration of scientific content.
   <br />
   <br />
-  <a href="https://github.com/GannaAsaad/Personalized-Chatbot-Project/issues">Report Bug</a>
-  ·
-  <a href="https://github.com/GannaAsaad/Personalized-Chatbot-Project/issues">Request Feature</a>
 </p>
 
 </div>
